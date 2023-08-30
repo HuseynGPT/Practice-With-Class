@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\Working with classes\Working with classes\obj\Debug\net5.0\Working with classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Working with classes\Working with classes\obj\Debug\net5.0\Working with classes.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Working with classes\Working with classes\obj\Debug\net5.0\Working with classes.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Working with classes\Working with classes\obj\Debug\net5.0\Working with classes.csproj.CoreCompileInputs.cache
